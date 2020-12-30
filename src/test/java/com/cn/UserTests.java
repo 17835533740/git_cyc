@@ -13,4 +13,7 @@ public class UserTests {
         int a=5;
         System.out.println(a);
     }
+    public void test(){
+        System.out.println("====");
+    }
 }
