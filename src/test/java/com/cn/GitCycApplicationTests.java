@@ -10,6 +10,7 @@ class GitCycApplicationTests {
     void contextLoads() {
         int a=2;
         int b=3;
+        int d=6;
         int c=a+b;
         System.out.println(c);
     }
